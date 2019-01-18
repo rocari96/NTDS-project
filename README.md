@@ -27,7 +27,7 @@ You can install all of this packages using the ```pip``` command, i.e. ```pip in
 
 You are now ready to run the file ```notebook.ipynb``` with Jupyter.
 
-To save computation time, all the time consuming operation, like adjacency or laplacian calculation, have already been computed and saved into the ```data``` folder.
+To save computation time, all the time consuming operations, like adjacency or laplacian calculation, have already been computed and saved into the ```data``` folder. You can either use these files or delete them before running the notebook if you want all the matrices to be recomputed, both options giving nevertheless the same results.
 
 
 ## Authors
