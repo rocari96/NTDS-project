@@ -1,6 +1,6 @@
 # Can we estimate the earnings of a movie ?
 
-We attempt to find a way to estimate the earnings of a movie, depending on the company and the people being involved in it, including actors, directors and producers.
+We attempted to find a way to estimate the earnings of a movie, depending on the company and the people being involved in it, including actors, directors and producers.
 
 This was done as a final project for the NTDS course during the fall semester of 2018.
 
